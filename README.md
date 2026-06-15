@@ -35,6 +35,8 @@ Opportunities to leverage deep project management expertise combined with growin
 
 ### 📚 Notable Projects
 
+[**Codexion**](https://github.com/codebit-hub/codexion) - Advanced concurrency simulation featuring POSIX threads with custom priority queue scheduling (FIFO/EDF), mutex-based synchronization, and deadlock prevention. Demonstrates mastery of thread safety, condition variables, resource arbitration and the Dining Philosophers problem variant.
+
 [**Fly-in**](https://github.com/codebit-hub/fly-in) - Efficient drone routing system that navigates multiple drones through connected zones while minimizing simulation turns and handling movement constraints (Cooperative Space-Time A* algorithm, Pygame, heapq(), frozenset())
 
 [**A-Maze-ing**](https://github.com/codebit-hub/A-Maze-ing) - Python CLI maze generator and solver using BFS/DFS algorithms with interactive gameplay and terminal animations
