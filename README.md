@@ -35,7 +35,7 @@ Opportunities to leverage deep project management expertise combined with growin
 
 ### 📚 Notable Projects
 
-[**Call_me_maybe**]([https://github.com/codebit-hub/Call_me_maybe) - A deterministic LLM function-calling engine, implementing constrained decoding with NumPy-based logit masking to force strictly validated JSON output from LLMs, bypassing probabilistic randomness with 99% structural success rates. Tech Stack: Python, NumPy, Hugging Face Transformers, FSM-based Logit Injection.
+[**Call_me_maybe**](https://github.com/codebit-hub/Call_me_maybe/) - A deterministic LLM function-calling engine, implementing constrained decoding with NumPy-based logit masking to force strictly validated JSON output from LLMs, bypassing probabilistic randomness with 99% structural success rates. Tech Stack: Python, NumPy, Hugging Face Transformers, FSM-based Logit Injection.
 
 [**Codexion**](https://github.com/codebit-hub/codexion) - Advanced concurrency simulation featuring POSIX threads with custom priority queue scheduling (FIFO/EDF), mutex-based synchronization, and deadlock prevention. Demonstrates mastery of thread safety, condition variables, resource arbitration and the Dining Philosophers problem variant.
 
