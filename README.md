@@ -11,8 +11,37 @@ I'm a professional localization manager transitioning into software development 
 ### 💻 Tech Stack
 
 - **Languages:** C, Python, Shell scripting
-- **Specializations:** System administration, CLI applications, algorithms & data structures, Linux
+- **Specializations:** System administration, CLI applications, algorithms & data structures, Linux, Network engineering
 - **Tools & Concepts:** Git, Virtual Machines, Graph algorithms, Linked lists, Memory management
+
+#### C Libraries & Utilities
+- **Standard C Library Functions (Libft):** Character functions, String manipulation, Memory management, Linked list operations
+- **I/O & Formatting (Printf):** Variable argument lists, Format specifiers, Flags and modifiers, Precision and width handling
+- **File Handling (Get_next_line):** Static variable management, Dynamic buffer allocation, File descriptor operations, Multi-FD support with linked lists
+
+#### Concurrency & System Primitives (C)
+- **POSIX Threading:** `pthread_t`, `pthread_create`, `pthread_join`
+- **Synchronization Mechanisms:** mutexes, condition variables
+- **Data Structures:** Custom priority queue (min-heap array-based), linked lists for multi-file handling
+- **System Calls:** `unistd.h` (file operations, system calls), `sys/time.h` (time management), `stdlib.h` (memory allocation)
+- Valgrind (Memcheck/Helgrind) and ThreadSanitizer
+
+#### Python Libraries & Modules
+- **Data Validation & Configuration:** Pydantic (strict type validation, configuration management)
+- **Scientific Computing & Processing:** NumPy (vectorized operations, array manipulation, boolean masking)
+- **Math Operations:** Math (coordinate interpolation) 
+- **Machine Learning & LLM Integration:** Transformers (HuggingFace models), PyTorch (tensor operations, model inference)
+- **Testing & Quality:** Pytest (unit testing), Flake8 (linting), MyPy (static type checking)
+- **Graphics & Visualization:** Pygame (game engine, vector graphics, audio synthesis), Termios/TTY (terminal control)
+- **CLI & Utilities:** setuptools/build (package distribution), JSON I/O (file processing)
+
+#### Network Engineering & Protocols
+- **TCP/IP & IPv4 Fundamentals:** OSI model layers, TCP/IP 4-layer model
+- **IP Addressing & Subnetting:** CIDR notation, subnet masks, broadcast addresses, host ranges
+- **Variable Length Subnet Masking (VLSM):** Optimal IP allocation, subnet calculation
+- **Routing & Network Configuration:** Static routing tables, default gateways, route summarization, multi-hop routing
+- **Network Infrastructure:** Switches vs. routers, Layer 2 (Data Link) vs. Layer 3 (Network), public vs. private IP addresses (RFC 1918)
+- **Practical Skills:** Network topology troubleshooting, return path configuration, collision detection in multi-hop scenarios
 
 ### 🔭 Current Learning Path at 42 Prague
 
