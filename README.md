@@ -16,7 +16,7 @@ I'm a professional localization manager transitioning into software development 
 
 ### 🔭 Current Learning Path at 42 Prague
 
-- **System Administration:** Virtual machine deployment, LLMP stack, Debian/Linux
+- **System Administration:** Virtual machine deployment, LLMP stack, Debian/Linux, Network Configuration, Subnetting
 - **Core Programming:** C fundamentals, memory management, variadic functions, file I/O
 - **Python Development:** Object-oriented programming, decorators, comprehensions, design patterns
 - **Algorithms & Data Structures:** Graph theory, pathfinding, sorting algorithms, linked list manipulation
@@ -34,6 +34,8 @@ I'm a professional localization manager transitioning into software development 
 Opportunities to leverage deep project management expertise combined with growing technical capabilities to lead engineering projects that deliver real value and improve user experiences.
 
 ### 📚 Notable Projects
+
+[**NetPractice**](https://github.com/codebit-hub/NetPractice/) - Application of practical network configuration, requiring the calculation and assignment of IP addresses, subnet masks, and routing tables to make non-functioning network topologies operational. Tech Stack: OSI layers (Network Layer), subnetting, CIDR, default gateways, routing tables and switches.
 
 [**Call_me_maybe**](https://github.com/codebit-hub/Call_me_maybe/) - A deterministic LLM function-calling engine, implementing constrained decoding with NumPy-based logit masking to force strictly validated JSON output from LLMs, bypassing probabilistic randomness with 99% structural success rates. Tech Stack: Python, NumPy, Hugging Face Transformers, FSM-based Logit Injection.
 
