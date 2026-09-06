@@ -36,7 +36,7 @@ I'm a professional localization manager transitioning into software development 
 - **CLI & Utilities:** setuptools/build (package distribution), JSON I/O (file processing)
 
 #### Network Engineering & Protocols
-- **TCP/IP & IPv4 Fundamentals:** OSI model layers, TCP/IP 4-layer model
+- **TCP/IP & Fundamentals:** IPv4 and IPv6 Subnetting, OSI model layers, TCP/IP 4-layer model
 - **IP Addressing & Subnetting:** CIDR notation, subnet masks, broadcast addresses, host ranges
 - **Variable Length Subnet Masking (VLSM):** Optimal IP allocation, subnet calculation
 - **Routing & Network Configuration:** Static routing tables, default gateways, route summarization, multi-hop routing
@@ -63,6 +63,8 @@ I'm a professional localization manager transitioning into software development 
 Opportunities to leverage deep project management expertise combined with growing technical capabilities to lead engineering projects that deliver real value and improve user experiences.
 
 ### 📚 Notable Projects
+
+[**Get-IPv6**](https://github.com/codebit-hub/Get-IPv6) - IPv6 subnetting and routing, hexadecimal notation, prefix lengths, subnet calculations, hierarchical subnetting, address types, scopes, types and common IPv6 networking concepts. Tech Stack: IPv6 subnetting, CIDR/prefix notation, hexadecimal and binary calculations.
 
 [**NetPractice**](https://github.com/codebit-hub/NetPractice/) - Application of practical network configuration, requiring the calculation and assignment of IP addresses, subnet masks, and routing tables to make non-functioning network topologies operational. Tech Stack: OSI layers (Network Layer), subnetting, CIDR, default gateways, routing tables and switches.
 
