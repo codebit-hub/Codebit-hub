@@ -10,9 +10,10 @@ I'm a professional localization manager transitioning into software development 
 
 ### 💻 Tech Stack
 
-- **Languages:** C, Python, Shell scripting
-- **Specializations:** System administration, CLI applications, algorithms & data structures, Linux, Network engineering
+- **Languages:** C, Python, PHP, JavaScript, HTML, CCS, Shell scripting
+- **Specializations:** Software engineering, System administration, CLI applications, algorithms & data structures, Linux, Network engineering
 - **Tools & Concepts:** Git, Virtual Machines, Graph algorithms, Linked lists, Memory management
+- **Networking:** IPv4, IPv6, Subnetting
 
 #### C Libraries & Utilities
 - **Standard C Library Functions (Libft):** Character functions, String manipulation, Memory management, Linked list operations
@@ -32,7 +33,7 @@ I'm a professional localization manager transitioning into software development 
 - **Math Operations:** Math (coordinate interpolation) 
 - **Machine Learning & LLM Integration:** Transformers (HuggingFace models), PyTorch (tensor operations, model inference)
 - **Testing & Quality:** Pytest (unit testing), Flake8 (linting), MyPy (static type checking)
-- **Graphics & Visualization:** Pygame (game engine, vector graphics, audio synthesis), Termios/TTY (terminal control)
+- **Graphics & Visualization:** Pygame (game engine, vector graphics, audio synthesis), MiniLibX (MLX), Termios/TTY (terminal control)
 - **CLI & Utilities:** setuptools/build (package distribution), JSON I/O (file processing)
 
 #### Network Engineering & Protocols
@@ -46,8 +47,8 @@ I'm a professional localization manager transitioning into software development 
 ### 🔭 Current Learning Path at 42 Prague
 
 - **System Administration:** Virtual machine deployment, LLMP stack, Debian/Linux, Network Configuration, Subnetting
-- **Core Programming:** C fundamentals, memory management, variadic functions, file I/O
-- **Python Development:** Object-oriented programming, decorators, comprehensions, design patterns
+- **Core Programming:** advanced C/Python programming, memory management, variadic functions, concurrency, asynchronism, constrained function calling, file I/O
+- **Python Development:** Object-oriented programming, decorators, comprehensions, design patterns, Pygame, MLX
 - **Algorithms & Data Structures:** Graph theory, pathfinding, sorting algorithms, linked list manipulation
 
 ### 🎓 Core Competencies
@@ -63,6 +64,8 @@ I'm a professional localization manager transitioning into software development 
 Opportunities to leverage deep project management expertise combined with growing technical capabilities to lead engineering projects that deliver real value and improve user experiences.
 
 ### 📚 Notable Projects
+
+[**Pac-Man**](https://github.com/codebit-hub/Pac-Man) - Complete, playable Pac-Man game in Python, using OOP, MiniLibX/Pygame graphical libraries and a modular, reusable architecture. Tech Stack: Python 3.13, Pygame, MLX, Back-end/Front-end, Github, Project Management.
 
 [**Get-IPv6**](https://github.com/codebit-hub/Get-IPv6) - IPv6 subnetting and routing, hexadecimal notation, prefix lengths, subnet calculations, hierarchical subnetting, address types, scopes, types and common IPv6 networking concepts. Tech Stack: IPv6 subnetting, CIDR/prefix notation, hexadecimal and binary calculations.
 
